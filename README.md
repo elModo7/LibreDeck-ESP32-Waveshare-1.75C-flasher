@@ -16,6 +16,8 @@ No additional software required. Just connect your device via USB and flash it d
 
 ## Screenshots
 
-![LibreDeck Web Flasher](https://github.com/user-attachments/assets/4db59c4b-5158-42b0-ac0c-df8441b6be4b)
+[![LibreDeck Web Flasher](https://github.com/user-attachments/assets/4db59c4b-5158-42b0-ac0c-df8441b6be4b)](https://elmodo7.github.io/LibreDeck-ESP32-Waveshare-1.75C-flasher/)
 
-<img width="400" alt="LibreDeck on Waveshare ESP32-S3 1.75C" src="https://github.com/user-attachments/assets/2f0a3aa9-fbf1-4d3a-b35a-4e15d250910c" />
+<a href="https://elmodo7.github.io/LibreDeck-ESP32-Waveshare-1.75C-flasher/">
+  <img width="400" alt="LibreDeck on Waveshare ESP32-S3 1.75C" src="https://github.com/user-attachments/assets/2f0a3aa9-fbf1-4d3a-b35a-4e15d250910c" />
+</a>
